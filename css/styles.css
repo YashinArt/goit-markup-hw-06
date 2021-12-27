@@ -512,7 +512,7 @@ img{
 } */
 .contener-features{
     align-content: center;
-    margin-right: 93px;
+    
 }
 .contener-features .features-title {
     color: var(--hero-title-color);
@@ -600,6 +600,10 @@ img{
 .sign-form{
     display: flex;
 }
+.sign-features{
+   margin-left: auto; 
+}
+
 .sign-features .features-title{
     color: var(--hero-title-color);
 }

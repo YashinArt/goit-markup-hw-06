@@ -733,7 +733,7 @@ img{
 }
 .consent:checked + .consent-icon {
     background-color: var(--accent-text-color);
-    background-image: url(./images/check.svg);
+    background-image: url(./images/checkk.svg);
     background-size: contain;
     background-origin: border-box;
     border-color: var(--accent-text-color);
